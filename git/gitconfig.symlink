@@ -97,3 +97,6 @@
     #merges
     ours = "!f() { git co --ours $@ && git add $@; }; f"
     theirs = "!f() { git co --theirs $@ && git add $@; }; f"
+[user]
+	email = rzienert@netflix.com
+	name = Rob Zienert
