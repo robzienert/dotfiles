@@ -16,7 +16,6 @@ jenv
 kotlin
 makedepend
 maven
-mercurial
 node
 pkg-config
 postgresql
