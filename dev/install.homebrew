@@ -2,6 +2,7 @@ ant
 autoconf
 automake
 awscli
+bashful
 bsdmake
 ccache
 cloc
@@ -16,6 +17,8 @@ jenv
 kotlin
 makedepend
 maven
+mycli
+mysql
 node
 pkg-config
 postgresql
@@ -24,4 +27,5 @@ python
 redis
 ruby
 rust
+travis
 yarn

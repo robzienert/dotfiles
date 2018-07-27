@@ -100,3 +100,5 @@
 [user]
 	email = rzienert@netflix.com
 	name = Rob Zienert
+[url "git@github.com:"]
+    insteadOf = "https://github.com/"`
