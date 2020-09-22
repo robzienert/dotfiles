@@ -2,7 +2,6 @@ ant
 autoconf
 automake
 awscli
-bashful
 bsdmake
 ccache
 cloc
@@ -10,11 +9,13 @@ cmake
 dpkg
 gcc
 gdub
+github/gh/gh
 go
 gradle-completion
 groovy
 jenv
 jsonnet
+jump
 kotlin
 makedepend
 maven
